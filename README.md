@@ -54,6 +54,8 @@ Excel / Power Query
 <img width="539" height="335" alt="image" src="https://github.com/user-attachments/assets/9b1a5a18-0707-4888-a593-e70bf8de2ad1" />
 
 
+https://app.powerbi.com/groups/me/reports/46de2d0e-d673-4579-9d71-2eeca9f6f19b/fa31a3359960a41e4f91?bookmarkGuid=852ebcad-f3b3-4136-8c7f-b9556d85de32&bookmarkUsage=1&ctid=e82d00fb-6390-49d8-b00a-a847b805a00f&portalSessionId=481bf231-793c-40ce-a34d-02b498d2abfe&fromEntryPoint=export
+
 
 **Business Value**
 
